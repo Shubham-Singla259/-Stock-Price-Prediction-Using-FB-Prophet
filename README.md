@@ -36,7 +36,7 @@ pip install taipy
 ## 🎥 Demo Video
 
 Watch our demo video to see the project in action:
-[![Watch the video](Demo Video.mp4)
+[![Watch the video](https://github.com/Shubham-Singla259/-Stock-Price-Prediction-Using-FB-Prophet/blob/main/Demo%20Video.mp4))
 ## 🤝 Contributing
 
 We are thrilled to welcome contributions! Feel free to fork the repository, implement your changes, and create a pull request. Please ensure you follow the contribution guidelines outlined in the repository.
