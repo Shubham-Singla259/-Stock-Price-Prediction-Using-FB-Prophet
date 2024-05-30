@@ -36,8 +36,7 @@ pip install taipy
 ## 🎥 Demo Video
 
 Watch our demo video to see the project in action:
-[![Watch the video](https://img.youtube.com/vi/your_video_id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your_video_id)
-
+[![Watch the video](Demo Video.mp4)
 ## 🤝 Contributing
 
 We are thrilled to welcome contributions! Feel free to fork the repository, implement your changes, and create a pull request. Please ensure you follow the contribution guidelines outlined in the repository.
